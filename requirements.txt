@@ -8,6 +8,5 @@ psycopg2-binary
 python-dotenv
 numpy
 opencv-python-headless
-deepface
-tensorflow==2.20.0
-tf-keras
+deepface==0.0.79
+tensorflow==2.15.0
