@@ -9,3 +9,5 @@ python-dotenv
 numpy
 opencv-python-headless
 deepface
+tensorflow==2.20.0
+tf-keras
