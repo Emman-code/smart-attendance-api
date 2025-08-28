@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
+numpy
+opencv-python-headless
+deepface
